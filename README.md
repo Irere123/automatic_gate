@@ -1,4 +1,4 @@
-# Automatic Gate System with Ultrasonic Sensor, Servo, LEDs, and Buzzer
+# Automatic Gate System
 
 ## Overview
 This project implements an automatic gate system using an Arduino, ultrasonic distance sensor, servo motor, LEDs, and a buzzer. The gate opens automatically when an object (such as a person or vehicle) is detected within a set distance, and closes after a delay when the object leaves. Visual and audio indicators show the gate's status.
